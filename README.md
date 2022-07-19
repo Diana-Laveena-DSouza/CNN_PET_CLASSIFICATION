@@ -1,3 +1,3 @@
 # CNN_PET_CLASSIFICATION
 
-Due to large data size, I could upload all the images.
+Due to large data size, I couldn't upload all the images.
