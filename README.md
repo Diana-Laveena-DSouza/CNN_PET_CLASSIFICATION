@@ -1,6 +1,6 @@
-🐱😹😺😻Pet Classification🐶🐕🐩🐕‍🦺
+🐱😹😺😻🐱😹😺😻Pet Classification🐶🐕🐩🐕‍🦺🐶🐕🐩🐕‍🦺
 
-😊😊This Project was done under the mentor Dr Uohan Theissen.😊😊
+😊😊This Project was done under the mentor Dr Uohan Theissen😊😊
 
 📝Data Description
 _____________________________________________________________________________________
