@@ -2,6 +2,11 @@
 
 😊😊This Project was done under the mentor Dr Uohan Theissen😊😊
 
+📝Libraries Used
+_____________________________________________________________________________________
+tensorflow, keras, opencv, numpy, matplotlib, pickle
+
+
 📝Data Description
 _____________________________________________________________________________________
 
